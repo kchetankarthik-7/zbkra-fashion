@@ -1,0 +1,20 @@
+
+*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins}
+body{background:#f4f5f7}
+.logo{font-weight:700;font-size:22px}
+.nav{display:flex;justify-content:space-between;padding:14px;background:#fff}
+.search{padding:10px;width:40%;border-radius:20px;border:1px solid #ddd}
+.icons a{margin-left:10px}
+.cats{background:#111;color:#fff;padding:10px;display:flex;gap:20px}
+.hero{text-align:center;padding:80px;background:linear-gradient(135deg,#ff4d6d,#7b2cff);color:#fff}
+.btn{display:inline-block;padding:12px 28px;border-radius:30px;background:#fff;color:#111;text-decoration:none;margin-top:10px}
+.ghost{background:none;border:1px solid #fff;color:#fff}
+.section{padding:40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:20px}
+.card{background:#fff;padding:16px;border-radius:18px;text-decoration:none;color:#111;text-align:center}
+.img{height:180px;background:#ddd;border-radius:12px;margin-bottom:10px}
+.big{height:300px}
+.product{display:grid;grid-template-columns:1fr 1fr;gap:30px}
+.auth{max-width:360px;margin:80px auto;background:#fff;padding:30px;border-radius:18px}
+.auth input{width:100%;padding:12px;margin-bottom:14px;border-radius:10px;border:1px solid #ddd}
+footer{text-align:center;padding:20px;background:#111;color:#fff}
